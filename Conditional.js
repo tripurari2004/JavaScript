@@ -29,3 +29,8 @@ if (score >= 90) {
 } else {
   console.log("Grade: F");
 }
+
+
+let older = 25 ? "You are an adult." : "You are a minor.";
+console.log(older);
+
